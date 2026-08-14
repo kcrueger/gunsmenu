@@ -1,3 +1,4 @@
 # gunsmenu
-!guns to open guns menu
-you can only choose guns 1 time per round
+!guns to open guns menu.
+
+You can only choose guns 1 time per round
