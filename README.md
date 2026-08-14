@@ -1,4 +1,4 @@
-# CSS-team move plugin
+# CSS-guns menu plugin
 Features
 
 !guns to open guns menu.
